@@ -1,4 +1,4 @@
-\## Announcer, Account Manager, and Session Manager for Zavati Script Loader.
+## Announcer, Account Manager, and Session Manager for Zavati Script Loader.
 
 
 
@@ -8,7 +8,7 @@ Zavati Script Loader is a Script Loader for Minecraft and other games. This is i
 
 
 
-\## Files
+## Files
 
 `botutils/utils.py` - Utilities for the bot to communicate with the Backend
 
@@ -22,13 +22,13 @@ Zavati Script Loader is a Script Loader for Minecraft and other games. This is i
 
 
 
-\## How to run
+## How to run
 
 If you are on Windows, Linux, or Android, you will need uv (from astral.sh). To install it, there will be a couple different methods:
 
 
 
-\*\*Windows\*\*
+**Windows**
 
 `winget astral-sh.uv`
 
@@ -38,15 +38,14 @@ OR
 
 
 
-\*\*Linux\*\*
+**Linux**
 
 `curl -LsSf https://astral.sh/uv/install.sh | sh`
 
 OR by using your package manager
 
 
-
-\*\*Termux/Android\*\*
+**Termux/Android**
 
 `apt install rust uv`
 
