@@ -6,4 +6,11 @@ dependencies = [
     "discord.py>=2.4.0",
     "psutil>=5.9.0",
     "python-dotenv>=1.0.0",
+    "aiohttp",
+    "fastapi",
+]
+
+[tool.uv.workspace]
+members = [
+    "api",
 ]
